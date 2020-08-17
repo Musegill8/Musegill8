@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm NelviX</h1>
+<h2 align="center">❝You will never regret being kind.❞</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=musegill8" alt="musegill8" /> </p>
 
 - 🌱 I’m currently learning **discord.js**
